@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlConnectionString": "Server=HP-FIDELITY\\SQLEXPRESS;Database=<DATABASE_NAME>;User Id=<USERNAME>;password=<SQL_PASSWORD>;Trusted_Connection=False;MultipleActiveResultSets=true;"
+  }
+}
